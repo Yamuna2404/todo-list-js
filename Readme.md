@@ -6,7 +6,7 @@ This app helps users add, delete, and manage daily tasks easily in a clean and m
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Site]()
+🔗 [View Live Site](https://github.com/Yamuna2404/todo-list-js)
 
 ---
 
@@ -34,7 +34,7 @@ This app helps users add, delete, and manage daily tasks easily in a clean and m
 ## 💡 How to Use
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/todo-list-js.git
+   git clone https://github.com/Yamuna2404/todo-list-js
 
 ## 📧 Author & Contact
 
